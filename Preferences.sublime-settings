@@ -39,7 +39,7 @@
 	],
 	"scroll_past_end": true,
 	"tab_size": 4,
-	"theme": "Seti.sublime-theme",
+	//"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true
 }
